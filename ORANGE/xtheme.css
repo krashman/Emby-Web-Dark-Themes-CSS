@@ -362,15 +362,15 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 /* 2.2.2 Logos */
 /* Login Page */
 .imgLogoIcon {
-  content: url(https://cdn.rawgit.com/krashman/Emby-Dark-Themes-Resources/master/images/logos-and-icons/ORANGE/xlogo.png) !important; }
+  content: url(https://cdn.rawgit.com/krashman/Emby-Dark-Themes-Resources/52e95240/images/logos-and-icons/ORANGE/logox.png) !important; }
 
 /* Main Drawer Mobile */
 .adminDrawerLogo img {
-  content: url(https://cdn.rawgit.com/krashman/Emby-Dark-Themes-Resources/master/images/logos-and-icons/ORANGE/xlogo.png) !important; }
+  content: url(https://cdn.rawgit.com/krashman/Emby-Dark-Themes-Resources/52e95240/images/logos-and-icons/ORANGE/logox.png) !important; }
 
 /* Home Page */
 .pageTitleWithLogo {
-  background-image: url(https://cdn.rawgit.com/krashman/Emby-Dark-Themes-Resources/master/images/logos-and-icons/ORANGE/xlogo.png) !important; }
+  background-image: url(https://cdn.rawgit.com/krashman/Emby-Dark-Themes-Resources/52e95240/images/logos-and-icons/ORANGE/logox.png) !important; }
 
 /* 2.2.3 Others	*/
 /* CSS Box */
